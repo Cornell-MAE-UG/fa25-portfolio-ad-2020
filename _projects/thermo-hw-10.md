@@ -12,10 +12,10 @@ The cycle begins with an intake stroke. The intake valve is open and the piston 
 *(original diagram: Piston and valves in a four-stroke internal combustion engine, Thermodynamics and Propulsion, Z. S. Spakovszky,* with added labels *)*
 
 ## The Otto Cycle on a P-V Diagram
-![](/assets/images/otto-cycle-adiabatic.png)
+![]({{ "/assets/images/otto-cycle-adiabatic.png" | relative_url }})
 *An ideal Otto cycle has two constant volume processes and two adiabatic, reversible processes. (diagram: Ideal Otto Cycle by NASA’s Glenn Research Center)*
 
-![](/assets/images/otto-cycle-real.png)
+![]({{ "/assets/images/otto-cycle-real.png" | relative_url }})
 
 *An actual Otto cycle has several irreversibilities, such as friction, and is not quasi-static.
 (diagram: Sketch of an actual Otto cycle, Thermodynamics and Propulsion, Z. S. Spakovszky)*
@@ -28,7 +28,7 @@ $$
 $$
 *Efficiency of the Otto cycle.* r *is the compression ratio, and* γ *is the ratio of specific heats.*
 
-![](/assets/images/otto-cycle-cr.png)
+![]({{ "/assets/images/otto-cycle-cr.png" | relative_url }})
 
 *Ideal Otto cycle efficiency vs. compression ratio,* r 
 *(from Thermodynamics and Propulsion, Z. S. Spakovszky)*
