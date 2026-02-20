@@ -2,6 +2,7 @@
 layout: project
 title: MAE2250 OPD3 Client Proposal
 description: MAE2250 ODP3
+technologies: [None]
 image: /assets/images/ODP3.png
 ---
 ## A Mechanical Approach to Quantifiable Spotted Lanternfly Egg Mass Control
@@ -18,18 +19,20 @@ Vineyards reduce SLF populations at the source by targeting egg masses, which pr
 
 ## Proposed direction: Jaw-Bucket Egg Removal and Containment System
 Jaws scrape off and collect egg masses. An internal compartment stores eggs for later disposal. 
+
 **Method of Usage:** 
 
--Uses a trigger on a handle to create a high mechanical advantage to close the jaws
+- Uses a trigger on a handle to create a high mechanical advantage to close the jaws
 
--Jaws scrape against the surface, removing and collecting the egg masses
+- Jaws scrape against the surface, removing and collecting the egg masses
 
--Uses a sliding door container to allow egg masses to fall in but not back out onto the ground
+- Uses a sliding door container to allow egg masses to fall in but not back out onto the ground
 
 **Improvements Over Past Solutions:** 
--More efficient and comfortable than scraping with a card, allows collection of many egg masses
 
--Doesn’t use chemicals or toxic fluids, doesn’t interfere with farm equipment or operations
+- More efficient and comfortable than scraping with a card, allows collection of many egg masses
+
+- Doesn’t use chemicals or toxic fluids, doesn’t interfere with farm equipment or operations
 
 By the end of the semester, we will have a tested prototype showing proof of concept that efficiently removes and collects simulated egg masses off various surfaces and requires little force input to operate. 
 
@@ -43,7 +46,7 @@ Importance/Testing: If too slow, vineyards won’t adopt it; test by finding tim
 
 Importance/Testing: If it damages vines, they may be unusable; inspect after repeated use to test
 
--Risk 3: Interference with growing regulations by introducing a new device into the vineyard
+- Risk 3: Interference with growing regulations by introducing a new device into the vineyard
 
 Importance/Testing: If it violates regulations, it can’t be used; test by checking growing standards
 
@@ -59,8 +62,6 @@ Importance/Testing: If it violates regulations, it can’t be used; test by chec
 3. **Are eggs often laid in places throughout vineyards that can’t be reached by hand?**  
 
    *Decision affected:* Impacts whether or not the tool is extendable/flexible to enable greater reach
-
-\newpage
 
 ## References
 
