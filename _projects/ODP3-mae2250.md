@@ -1,54 +1,63 @@
 ---
 layout: project
-title: MAE2250 OPD3: Client Proposal
+title: MAE2250 OPD3 Client Proposal
 description: MAE2250 ODP3
 image: /assets/images/ODP3.png
-fontsize: 11pt
-geometry: margin=1in
-papersize: letter
-pagestyle: empty
-header-includes:
-  - \pagenumbering{gobble}
 ---
-
-# A Mechanical Approach to Quantifiable Spotted Lanternfly Egg Mass Control
+## A Mechanical Approach to Quantifiable Spotted Lanternfly Egg Mass Control
 
 **Team:** Buzzkill
+
 **Client(s):** Cornell CALS Extension / E\&J Gallo Winery / National Grape  
 
-## Problem statement (most important)
+## Problem statement
 Current control methods for the spotted lanternfly (SLF) fail to ensure destruction or provide a reliable way to quantify how many egg masses were destroyed. Eggs are protected by a waxy coating and 68.5% are adhered to rough surfaces such as tree bark (2); if scraped onto the ground, they can still hatch if not destroyed. Our challenge is to develop a mechanical system that ensures destruction of egg masses across various surfaces and enables growers to numerically analyze the system’s success.  
 
 ## Impact
 Vineyards reduce SLF populations at the source by targeting egg masses, which prevents the emergence of 30 to 50 insects per egg mass (1). Verifying destruction allows vineyards to quantify population reduction, improving confidence in control protocols and providing a scalable solution.
 
 ## Proposed direction: Jaw-Bucket Egg Removal and Containment System
-
-**What it is:** Jaws scrape off and collect egg masses. An internal compartment stores eggs for later disposal. 
+Jaws scrape off and collect egg masses. An internal compartment stores eggs for later disposal. 
 **Method of Usage:** 
+
 -Uses a trigger on a handle to create a high mechanical advantage to close the jaws
+
 -Jaws scrape against the surface, removing and collecting the egg masses
+
 -Uses a sliding door container to allow egg masses to fall in but not back out onto the ground
+
 **Improvements Over Past Solutions:** 
 -More efficient and comfortable than scraping with a card, allows collection of many egg masses
+
 -Doesn’t use chemicals or toxic fluids, doesn’t interfere with farm equipment or operations
+
 By the end of the semester, we will have a tested prototype showing proof of concept that efficiently removes and collects simulated egg masses off various surfaces and requires little force input to operate. 
 
 ## Key risks / unknowns
 
 - Risk 1: Operation of this device can be labor and time intensive for farmers with tight margins
+
 Importance/Testing: If too slow, vineyards won’t adopt it; test by finding time per egg mass
+
 - Risk 2: Damage to grapevines or grapes when the egg masses are scraped off
+
 Importance/Testing: If it damages vines, they may be unusable; inspect after repeated use to test
+
 -Risk 3: Interference with growing regulations by introducing a new device into the vineyard
+
 Importance/Testing: If it violates regulations, it can’t be used; test by checking growing standards
 
 ## Questions for the client
 1. **Do egg masses vary significantly in size, thickness, or shape throughout the season?**  
+
    *Decision affected:* Jaw opening width, bucket size, and shape of teeth on the jaw
+
 2. **What surfaces are the most difficult to remove the egg masses from?**  
+
    *Decision affected:* Material of our scraper (some surfaces might require more or less force)
+
 3. **Are eggs often laid in places throughout vineyards that can’t be reached by hand?**  
+
    *Decision affected:* Impacts whether or not the tool is extendable/flexible to enable greater reach
 
 \newpage
@@ -60,7 +69,5 @@ Importance/Testing: If it violates regulations, it can’t be used; test by chec
 2. Houping Liu, Oviposition Substrate Selection, Egg Mass Characteristics, Host Preference, and 
    Life History of the Spotted Lanternfly (Hemiptera: Fulgoridae) in North America, Environmental Entomology, Volume 48, Issue 6, December 2019, Pages 1452–1468, https://doi.org/10.1093/ee/nvz123
 
-## Figure
 ![]({{ "/assets/images/ODP3.png" | relative_url }})
 *Figure 1: Mechanical Jaw Bucket Design with Internal Compartment*
-<!-- ![<One-line caption. No full sentences.>](figures/<your_figure_filename>.png) -->
