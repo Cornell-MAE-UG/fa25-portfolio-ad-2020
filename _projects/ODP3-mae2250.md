@@ -1,8 +1,3 @@
-<!--
-Compile to PDF (example):
-  pandoc O3_ClientOutline_example_submission.md -o O3_ClientOutline.pdf
--->
-
 ---
 layout: project
 title: MAE2250 OPD3: Client Proposal
