@@ -30,9 +30,9 @@ Jaws scrape off and collect egg masses. An internal compartment stores eggs for 
 
 **Improvements Over Past Solutions:** 
 
-- More efficient and comfortable than scraping with a card, allows collection of many egg masses
+- More efficient and comfortable than scraping with a card, but still hand-held and chemical-free
 
-- Doesn’t use chemicals and is hand-held– doesn’t interfere with farm equipment or operations
+- Enables easy counting of egg masses in the bucket to numerically evaluate the device’s impact
 
 **End-of-Semester Proof of Concept:** By the end of the semester, we will have a tested prototype showing proof of concept that efficiently removes and collects simulated egg masses off a variety of surfaces. It will also require little force input to operate. 
 
